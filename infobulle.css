@@ -1,0 +1,775 @@
+#infobulle {
+    width: 30%;
+    background: #FFE;
+    position: absolute;
+    padding: 1%;
+}
+
+#infobulle > h6 {
+    font-size: 1em;
+    margin-bottom: 5%;  
+    margin-top: 1%;
+}
+
+#infobulle > p {
+    font-size: 0.7em;
+    text-align: justify;
+}
+
+#infobulle > ul {
+    font-size: 0.7em;
+    text-align: justify;
+}
+
+.trait {
+    height: 8.5%;
+    width: 4.5%;
+    cursor: pointer;
+}
+
+td {
+    text-align: center;
+    font-size: 0.7em;
+}
+
+th {
+    text-align: center;
+    font-size: 0.85em;
+}
+
+#trait-10 {
+    position: absolute;
+    left: 2%;
+    top: 2%;
+}
+
+#trait-11 {
+    position: absolute;
+    left: 9%;
+    top: 2%;
+}
+
+#trait-12 {
+    position: absolute;
+    left: 16%;
+    top: 2%
+}
+
+#trait-14 {
+    position: absolute;
+    left: 23%;
+    top: 2%;
+}
+
+#trait-1 {
+    position: absolute;
+    left: 30%;
+    top: 2%;
+}
+
+#trait-8 {
+    position: absolute;
+    left: 37%;
+    top: 2%;
+}
+
+#trait-28 {
+    position: absolute;
+    left: 44%;
+    top: 2%;
+}
+
+#trait-29 {
+    position: absolute;
+    left: 51%;
+    top: 2%;
+}
+
+#trait-58 {
+    position: absolute;
+    left: 58%;
+    top: 2%;
+}
+
+#trait-59 {
+    position: absolute;
+    left: 65%;
+    top: 2%;
+}
+
+#trait-69 {
+    position: absolute;
+    left: 72%;
+    top: 2%;
+}
+
+#trait-56 {
+    position: absolute;
+    left: 79%;
+    top: 2%;
+}
+
+#trait-57 {
+    position: absolute;
+    left: 86%;
+    top: 2%;
+}
+
+#trait-15 {
+    position: absolute;
+    left: 4%;
+    top: 14%;
+}
+
+#trait-17 {
+    position: absolute;
+    left: 11%;
+    top: 14%;
+}
+
+#trait-19 {
+    position: absolute;
+    left: 18%;
+    top: 14%;
+}
+
+#trait-13 {
+    position: absolute;
+    left: 25%;
+    top: 14%;
+}
+
+#trait-5 {
+    position: absolute;
+    left: 32%;
+    top: 14%;
+}
+
+#trait-4 {
+    position: absolute;
+    left: 39%;
+    top: 14%
+}
+
+#trait-30 {
+    position: absolute;
+    left: 46%;
+    top: 14%;
+}
+
+#trait-31 {
+    position: absolute;
+    left: 53%;
+    top: 14%;
+}
+
+#trait-60 {
+    position: absolute;
+    left: 60%;
+    top: 14%;
+}
+
+#trait-70 {
+    position: absolute;
+    left: 67%;
+    top: 14%;
+}
+
+#trait-71 {
+    position: absolute;
+    left: 74%;
+    top: 14%;
+}
+
+#trait-42 {
+    position: absolute;
+    left: 81%;
+    top: 14%;
+}
+
+#trait-20 {
+    position: absolute;
+    left: 2%;
+    top: 26%;
+}
+
+#trait-21 {
+    position: absolute;
+    left: 9%;
+    top: 26%;
+}
+
+#trait-16 {
+    position: absolute;
+    left: 16%;
+    top: 26%;
+}
+
+#trait-2 {
+    position: absolute;
+    left: 23%;
+    top: 26%;
+}
+
+#trait-7 {
+    position: absolute;
+    left: 30%;
+    top: 26%;
+}
+
+#trait-3 {
+    position: absolute;
+    left: 37%;
+    top: 26%;
+}
+
+#trait-44 {
+    position: absolute;
+    left: 44%;
+    top: 26%;
+}
+
+#trait-45 {
+    position: absolute;
+    left: 51%;
+    top: 26%;
+}
+
+#trait-46 {
+    position: absolute;
+    left: 58%;
+    top: 26%;
+}
+
+#trait-61 {
+    position: absolute;
+    left: 65%;
+    top: 26%
+}
+
+#trait-49 {
+    position: absolute;
+    left: 72%;
+    top: 26%;
+}
+
+#trait-41 {
+    position: absolute;
+    left: 79%;
+    top: 26%;
+}
+
+#trait-43 {
+    position: absolute;
+    left: 86%;
+    top: 26%;
+}
+
+#trait-22 {
+    position: absolute;
+    left: 4%;
+    top: 38%;
+}
+
+#trait-23 {
+    position: absolute;
+    left: 11%;
+    top: 38%;
+}
+
+#trait-73 {
+    position: absolute;
+    left: 18%;
+    top: 38%;
+}
+
+#trait-25 {
+    position: absolute;
+    left: 25%;
+    top: 38%;
+}
+
+#trait-26 {
+    position: absolute;
+    left: 32%;
+    top: 38%;
+}
+
+#trait-6 {
+    position: absolute;
+    left: 39%;
+    top: 38%;
+}
+
+#trait-47 {
+    position: absolute;
+    left: 46%;
+    top: 38%;
+}
+
+#trait-48 {
+    position: absolute;
+    left: 53%;
+    top: 38%;
+}
+
+#trait-62 {
+    position: absolute;
+    left: 60%;
+    top: 38%;
+}
+
+#trait-63 {
+    position: absolute;
+    left: 67%;
+    top: 38%;
+}
+
+#trait-50 {
+    position: absolute;
+    left: 74%;
+    top: 38%;
+}
+
+#trait-24 {
+    position: absolute;
+    left: 81%;
+    top: 38%;
+}
+
+#trait-18I {
+    position: absolute;
+    left: 2%;
+    top: 53%;
+    width: 6.75%;
+    height: 12.75%;
+}
+
+#trait-9 {
+    position: absolute;
+    left: 15%;
+    top: 50%;
+}
+
+#trait-72 {
+    position: absolute;
+    left: 25%;
+    top: 50%;
+}
+
+#trait-27 {
+    position: absolute;
+    left: 35%;
+    top: 50%;
+}
+
+#trait-52 {
+    position: absolute;
+    left: 45%;
+    top: 50%;
+}
+
+#trait-33 {
+    position: absolute;
+    left: 55%;
+    top: 50%;
+}
+
+#trait-53 {
+    position: absolute;
+    left: 65%;
+    top: 50%;
+}
+
+#trait-55 {
+    position: absolute;
+    left: 75%;
+    top: 50%;
+}
+
+#trait-51 {
+    position: absolute;
+    left: 79%;
+    top: 62%;
+}
+
+#trait-54 {
+    position: absolute;
+    left: 89%;
+    top: 62%;
+}
+
+#trait-18II {
+    position: absolute;
+    left: 2%;
+    top: 71%;
+    width: 6.75%;
+    height: 12.75%;
+}
+
+#trait-34 {
+    position: absolute;
+    left: 13%;
+    top: 74%;
+}
+
+#trait-35 {
+    position: absolute;
+    left: 22%;
+    top: 74%;
+}
+
+#trait-64 {
+    position: absolute;
+    left: 31%;
+    top: 74%;
+}
+
+#trait-65 {
+    position: absolute;
+    left: 40%;
+    top: 74%;
+}
+
+#trait-66 {
+    position: absolute;
+    left: 49%;
+    top: 74%;
+}
+
+#trait-32 {
+    position: absolute;
+    left: 58%;
+    top: 74%;
+}
+#trait-67 {
+    position: absolute;
+    left: 67%;
+    top: 74%;
+}
+
+#trait-68 {
+    position: absolute;
+    left: 76%;
+    top: 74%;
+}
+
+#trait-18III {
+    position: absolute;
+    left: 2%;
+    top: 85%;
+    height: 12.75%;
+    width: 6.75%;
+}
+
+#trait-38 {
+    position: absolute;
+    left: 15%;
+    top: 87%;
+}
+
+#trait-39 {
+    position: absolute;
+    left: 24%;
+    top: 87%;
+}
+
+#trait-37 {
+    position: absolute;
+    left: 52%;
+    top: 87%;
+}
+
+#trait-40 {
+    position: absolute;
+    left: 62%;
+    top: 87%;
+}
+
+#trait-36 {
+    position: absolute;
+    left: 72%;
+    top: 87%;
+}
+
+#choose-category {
+    position: absolute;
+    left: 84%;
+    top: 90%;
+}
+
+#line-1 {
+    position: absolute;
+    left: 32%;
+    top: 10.3%;
+    width: 6px;
+    height: 2%;
+}
+
+#line-2 {
+    position: absolute;
+    left: 39%;
+    top: 10.3%;
+    width: 6px;
+    height: 2%;
+}
+
+#line-3 {
+    position: absolute;
+    left: 32%;
+    top: 12.3%;
+    width: 7.4%;
+    height: 6px;
+}
+
+#line-4 {
+    position: absolute;
+    left: 34%;
+    top: 12.7%;
+    width: 6px;
+    height: 1.4%;
+}
+
+#line-5 {
+    position: absolute;
+    left: 26%;
+    top: 22.3%;
+    width: 6px;
+    height: 4%;
+}
+
+#line-6 {
+    position: absolute;
+    left: 19%;
+    top: 34.3%;
+    width: 6px;
+    height: 4%;
+}
+
+#line-7 {
+    position: absolute;
+    left: 26%;
+    top: 34.3%;
+    width: 6px;
+    height: 4%;
+}
+
+#line-8 {
+    position: absolute;
+    left: 33%;
+    top: 34.3%;
+    width: 6px;
+    height: 4%;
+}
+
+#line-9 {
+    position: absolute;
+    left: 2%;
+    top: 48%;
+    height: 6px;
+    width: 95%;
+}
+
+#line-10 {
+    position: absolute;
+    left: 2%;
+    top: 70.3%;
+    height: 6px;
+    width: 95%;
+}
+
+#line-11 {
+    position: absolute;
+    left: 2%;
+    top: 84%;
+    height: 6px;
+    width: 95%;
+}
+
+#line-12 {
+    position: absolute;
+    left: 84%;
+    top: 46.4%;
+    width: 6px;
+    height: 42%;
+}
+
+#line-13 {
+    position: absolute;
+    left: 37%;
+    top: 58.4%;
+    width: 6px;
+    height: 30%;
+}
+
+#line-14 {
+    position: absolute;
+    left: 80%;
+    top: 58%;
+    width: 13%;
+    height: 6px;
+}
+
+#line-15 {
+    position: absolute;
+    left: 82%;
+    top: 58%;
+    width: 6px;
+    height: 4.1%;
+}
+
+#line-16 {
+    position: absolute;
+    left: 92%;
+    top: 58%;
+    width: 6px;
+    height: 4.1%;
+}
+
+#line-17 {
+    position: absolute;
+    left: 37%;
+    top: 60%;
+    width: 44%;
+    height: 6px;
+}
+
+#line-18 {
+    position: absolute;
+    left: 83%;
+    top: 60%;
+    width: 8%;
+    height: 6px;
+}
+
+#line-19 {
+    position: absolute;
+    left: 80%;
+    top: 60%;
+    width: 6px;
+    height: 2.1%;
+}
+
+#line-20 {
+    position: absolute;
+    left: 90%;
+    top: 60%;
+    width: 6px;
+    height: 2.1%;
+}
+
+#line-21 {
+    position: absolute;
+    left: 60%;
+    top: 71.5%;
+    width: 24%;
+    height: 6px;
+}
+
+#line-22 {
+    position: absolute;
+    left: 37%;
+    top: 72.8%;
+    width: 41%;
+    height: 6px;
+}
+
+#line-23 {
+    position: absolute;
+    left: 37%;
+    top: 85.5%;
+    width: 27%;
+    height: 6px;
+}
+
+#line-24 {
+    position: absolute;
+    left: 64.5%;
+    top: 85.5%;
+    width: 19.5%;
+    height: 6px;
+}
+
+#line-25 {
+    position: absolute;
+    left:54%;
+    top: 85.5%;
+    width: 6px;
+    height: 1.8%;
+}
+
+#line-26 {
+    position: absolute;
+    left:63%;
+    top: 85.5%;
+    width: 6px;
+    height: 1.8%;
+}
+
+#line-27 {
+    position: absolute;
+    left:65%;
+    top: 85.5%;
+    width: 6px;
+    height: 1.8%;
+}
+
+#line-28 {
+    position: absolute;
+    left:74%;
+    top: 85.5%;
+    width: 6px;
+    height: 1.8%;
+}
+
+#line-29 {
+    position: absolute;
+    left:59%;
+    top: 72.8%;
+    width: 6px;
+    height: 1.25%;
+}
+
+#line-30 {
+    position: absolute;
+    left:68%;
+    top: 72.8%;
+    width: 6px;
+    height: 1.25%;
+}
+
+#line-31 {
+    position: absolute;
+    left:77%;
+    top: 72.8%;
+    width: 6px;
+    height: 1.25%;
+}
+
+#line-32 {
+    position: absolute;
+    left: 61%;
+    top: 72%;
+    height: 2%;
+    width: 6px;
+}
+
+#line-33 {
+    position: absolute;
+    left: 70%;
+    top: 72%;
+    height: 2%;
+    width: 6px;
+}
+
+#line-34 {
+    position: absolute;
+    left: 79%;
+    top: 72%;
+    height: 2%;
+    width: 6px;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1530053969600-caed2596d242?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2VhJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80");
+}
