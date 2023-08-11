@@ -502,7 +502,7 @@ th {
     position: absolute;
     left: 32%;
     top: 10.3%;
-    width: 6px;
+    width: 0.5%;
     height: 2%;
 }
 
@@ -510,7 +510,7 @@ th {
     position: absolute;
     left: 39%;
     top: 10.3%;
-    width: 6px;
+    width: 0.5%;
     height: 2%;
 }
 
@@ -519,14 +519,14 @@ th {
     left: 32%;
     top: 12.3%;
     width: 7.4%;
-    height: 6px;
+    height: 1%;
 }
 
 #line-4 {
     position: absolute;
     left: 34%;
     top: 12.7%;
-    width: 6px;
+    width: 0.5%;
     height: 1.4%;
 }
 
@@ -534,7 +534,7 @@ th {
     position: absolute;
     left: 26%;
     top: 22.3%;
-    width: 6px;
+    width: 0.5%;
     height: 4%;
 }
 
@@ -542,7 +542,7 @@ th {
     position: absolute;
     left: 19%;
     top: 34.3%;
-    width: 6px;
+    width: 0.5%;
     height: 4%;
 }
 
@@ -550,7 +550,7 @@ th {
     position: absolute;
     left: 26%;
     top: 34.3%;
-    width: 6px;
+    width: 0.5%;
     height: 4%;
 }
 
@@ -558,7 +558,7 @@ th {
     position: absolute;
     left: 33%;
     top: 34.3%;
-    width: 6px;
+    width: 0.5%;
     height: 4%;
 }
 
@@ -566,7 +566,7 @@ th {
     position: absolute;
     left: 2%;
     top: 48%;
-    height: 6px;
+    height: 1%;
     width: 95%;
 }
 
@@ -574,7 +574,7 @@ th {
     position: absolute;
     left: 2%;
     top: 70.3%;
-    height: 6px;
+    height: 1%;
     width: 95%;
 }
 
@@ -582,7 +582,7 @@ th {
     position: absolute;
     left: 2%;
     top: 84%;
-    height: 6px;
+    height: 1%;
     width: 95%;
 }
 
@@ -590,7 +590,7 @@ th {
     position: absolute;
     left: 84%;
     top: 46.4%;
-    width: 6px;
+    width: 0.5%;
     height: 42%;
 }
 
@@ -598,7 +598,7 @@ th {
     position: absolute;
     left: 37%;
     top: 58.4%;
-    width: 6px;
+    width: 0.5%;
     height: 30%;
 }
 
@@ -607,14 +607,14 @@ th {
     left: 80%;
     top: 58%;
     width: 13%;
-    height: 6px;
+    height: 1%;
 }
 
 #line-15 {
     position: absolute;
     left: 82%;
     top: 58%;
-    width: 6px;
+    width: 0.5%;
     height: 4.1%;
 }
 
@@ -622,7 +622,7 @@ th {
     position: absolute;
     left: 92%;
     top: 58%;
-    width: 6px;
+    width: 0.5%;
     height: 4.1%;
 }
 
@@ -631,7 +631,7 @@ th {
     left: 37%;
     top: 60%;
     width: 44%;
-    height: 6px;
+    height: 1%;
 }
 
 #line-18 {
@@ -639,14 +639,14 @@ th {
     left: 83%;
     top: 60%;
     width: 8%;
-    height: 6px;
+    height: 1%;
 }
 
 #line-19 {
     position: absolute;
     left: 80%;
     top: 60%;
-    width: 6px;
+    width: 0.5%;
     height: 2.1%;
 }
 
@@ -654,7 +654,7 @@ th {
     position: absolute;
     left: 90%;
     top: 60%;
-    width: 6px;
+    width: 0.5%;
     height: 2.1%;
 }
 
@@ -663,7 +663,7 @@ th {
     left: 60%;
     top: 71.5%;
     width: 24%;
-    height: 6px;
+    height: 1%;
 }
 
 #line-22 {
@@ -671,7 +671,7 @@ th {
     left: 37%;
     top: 72.8%;
     width: 41%;
-    height: 6px;
+    height: 1%;
 }
 
 #line-23 {
@@ -679,7 +679,7 @@ th {
     left: 37%;
     top: 85.5%;
     width: 27%;
-    height: 6px;
+    height: 1%;
 }
 
 #line-24 {
@@ -687,14 +687,14 @@ th {
     left: 64.5%;
     top: 85.5%;
     width: 19.5%;
-    height: 6px;
+    height: 1%;
 }
 
 #line-25 {
     position: absolute;
     left:54%;
     top: 85.5%;
-    width: 6px;
+    width: 0.5%;
     height: 1.8%;
 }
 
@@ -702,7 +702,7 @@ th {
     position: absolute;
     left:63%;
     top: 85.5%;
-    width: 6px;
+    width: 0.5%;
     height: 1.8%;
 }
 
@@ -710,7 +710,7 @@ th {
     position: absolute;
     left:65%;
     top: 85.5%;
-    width: 6px;
+    width: 0.5%;
     height: 1.8%;
 }
 
@@ -718,7 +718,7 @@ th {
     position: absolute;
     left:74%;
     top: 85.5%;
-    width: 6px;
+    width: 0.5%;
     height: 1.8%;
 }
 
@@ -726,7 +726,7 @@ th {
     position: absolute;
     left:59%;
     top: 72.8%;
-    width: 6px;
+    width: 0.5%;
     height: 1.25%;
 }
 
@@ -734,7 +734,7 @@ th {
     position: absolute;
     left:68%;
     top: 72.8%;
-    width: 6px;
+    width: 0.5%;
     height: 1.25%;
 }
 
@@ -742,7 +742,7 @@ th {
     position: absolute;
     left:77%;
     top: 72.8%;
-    width: 6px;
+    width: 0.5%;
     height: 1.25%;
 }
 
@@ -751,7 +751,7 @@ th {
     left: 61%;
     top: 72%;
     height: 2%;
-    width: 6px;
+    width: 0.5%;
 }
 
 #line-33 {
@@ -759,7 +759,7 @@ th {
     left: 70%;
     top: 72%;
     height: 2%;
-    width: 6px;
+    width: 0.5%;
 }
 
 #line-34 {
@@ -767,7 +767,7 @@ th {
     left: 79%;
     top: 72%;
     height: 2%;
-    width: 6px;
+    width: 0.5%;
 }
 
 body {
